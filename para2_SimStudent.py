@@ -52,6 +52,7 @@ class Student:
         self.is_alive()
 
 
+
 student1 = Student(name="Kozumiak")
 
 for day in range(365):
